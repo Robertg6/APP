@@ -36,6 +36,11 @@ public class Note_Edit extends AppCompatActivity {
             }
         });
 
+
+
+
+
+
         cancel_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

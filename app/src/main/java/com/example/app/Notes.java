@@ -17,6 +17,12 @@ public class Notes extends AppCompatActivity {
         setContentView(R.layout.activity_notes);
 
 
+
+
+
+
+
+
         New_Note = findViewById(R.id.New_Note);
 
         New_Note.setOnClickListener(new View.OnClickListener() {
