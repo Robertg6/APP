@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APP</string>
+
+
+    <string name="New_Note">New Note</string>
+    <string name="List_Note">Notes</string>
+    <string name="Close">Close Application</string>
+    <string name="Title">Enter Note Title</string>
+    <string name="Note_Body">Enter Note Contents</string>
+    <string name="Save_Note">Save Note</string>
+    <string name="Cancel">Cancel</string>>
+
+</resources>
